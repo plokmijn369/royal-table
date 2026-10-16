@@ -1,0 +1,25 @@
+{
+  "seq": 1,
+  "issued": "2026-10-16T20:08:27Z",
+  "entries": [
+    "https://518laicai.com",
+    "https://jinlaicai.com",
+    "https://47.242.200.88",
+    "https://47.242.150.255",
+    "https://8.210.35.92"
+  ],
+  "tableUrls": [
+    "https://static.518laicai.com/bundles/entry-table.json",
+    "https://royal-static-hk.oss-cn-hongkong.aliyuncs.com/bundles/entry-table.json",
+    "https://raw.githubusercontent.com/plokmijn369/royal-table/main/entry-table.json",
+    "https://cdn.jsdelivr.net/gh/plokmijn369/royal-table@main/entry-table.json"
+  ],
+  "assetBase": "https://static.518laicai.com/bundles/cocos-royal-skin2/",
+  "bundlesBase": "https://static.518laicai.com/bundles",
+  "notice": {
+    "zh": "",
+    "en": ""
+  },
+  "minVersion": "",
+  "sig": "99c6340d9db12283ce30e8dee6ec44f2a1edf4684ad2eb2d875c9a0db2c1640416ef60373dc7360712c2cc14fb075c4e7413e7d2a98e5d96963e7a6407f01109"
+}
