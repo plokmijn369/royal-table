@@ -1,6 +1,6 @@
 {
-  "seq": 1,
-  "issued": "2026-10-16T20:08:27Z",
+  "seq": 1000,
+  "issued": "2026-10-16T20:16:55Z",
   "entries": [
     "https://518laicai.com",
     "https://jinlaicai.com",
@@ -21,5 +21,5 @@
     "en": ""
   },
   "minVersion": "",
-  "sig": "99c6340d9db12283ce30e8dee6ec44f2a1edf4684ad2eb2d875c9a0db2c1640416ef60373dc7360712c2cc14fb075c4e7413e7d2a98e5d96963e7a6407f01109"
+  "sig": "f33ce2ca257e03d77589353ba45e4a8e97d18c87f99dee74f5bc73ba36baa4a31c891c516f8418e1d14a40891d0789c7f96df4fef435f09221e2eac7bcb72103"
 }
