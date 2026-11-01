@@ -1,6 +1,6 @@
 {
-  "seq": 1001,
-  "issued": "2026-11-02T00:00:00Z",
+  "seq": 1002,
+  "issued": "2026-11-02T06:30:00Z",
   "entries": [
     "https://jinlaicai.com",
     "https://winjinbei.com",
@@ -9,6 +9,7 @@
     "https://8.210.35.92"
   ],
   "tableUrls": [
+    "https://54dafuhao.com/bundles/entry-table.json",
     "https://static.518laicai.com/bundles/entry-table.json",
     "https://royal-static-hk.oss-cn-hongkong.aliyuncs.com/bundles/entry-table.json",
     "https://raw.githubusercontent.com/plokmijn369/royal-table/main/entry-table.json",
@@ -21,5 +22,5 @@
     "en": ""
   },
   "minVersion": "",
-  "sig": "1817bd736e961c61faa5af5840b1026f9aa36843a80c90138b87b36cb410282d200660cd56f0f96fcdda80fca30d77e5dd74b1f2e69d69d67424536330ca3002"
+  "sig": "254821ad59e52475ebed8294e51f252631a6e729732c41f10e69d3e02a03c5c7f46fc96166465ac1ff3eb89b5064ea52145b59f357d92dd6cc635b213851610a"
 }
