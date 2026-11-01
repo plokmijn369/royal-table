@@ -1,6 +1,6 @@
 {
-  "seq": 1002,
-  "issued": "2026-11-02T06:30:00Z",
+  "seq": 1003,
+  "issued": "2026-11-02T08:00:00Z",
   "entries": [
     "https://jinlaicai.com",
     "https://winjinbei.com",
@@ -15,12 +15,12 @@
     "https://raw.githubusercontent.com/plokmijn369/royal-table/main/entry-table.json",
     "https://cdn.jsdelivr.net/gh/plokmijn369/royal-table@main/entry-table.json"
   ],
-  "assetBase": "https://static.518laicai.com/bundles/cocos-royal-skin2/",
-  "bundlesBase": "https://static.518laicai.com/bundles",
+  "assetBase": "https://51baofu6.com/bundles/cocos-royal-skin2/",
+  "bundlesBase": "https://51baofu6.com/bundles",
   "notice": {
     "zh": "",
     "en": ""
   },
   "minVersion": "",
-  "sig": "254821ad59e52475ebed8294e51f252631a6e729732c41f10e69d3e02a03c5c7f46fc96166465ac1ff3eb89b5064ea52145b59f357d92dd6cc635b213851610a"
+  "sig": "498b4f7bb2fb4a56002b02baff553ffe6a302114eeb1e2a2f426daf31a4df7e25bb422ede98bb382426b902e849c9050f682abcde1af401013224b0960eb6b0b"
 }
